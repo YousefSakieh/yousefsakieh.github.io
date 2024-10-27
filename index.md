@@ -4,24 +4,26 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A passionate interdisciplinary researcher and a team player with background in quantitative analysis and predcitive modeling. With years of exprience in research and teaching, John has published several papers on scenario analysis of socio-ecological systems and has collaborated with researhers from leading academic instituitons. In his free time, John enjoys walking in nature and playing sports with friends.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Google Scholar](https://scholar.google.com/citations?user=ZKPrsuwAAAAJ&hl=en), [GitHub](https://github.com/YousefSakieh)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form john.smith@gmail.com (the email address is hypothetical). 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Global Consumption](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-2ceb51fd-8098-439b-9a11-450ee970203e/YMT-3510), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Biological Control](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-0684c621-85aa-45cf-835b-aa6490e3f47b/AGRI-271), fall 2020
 
 ## Projects
 
+[cmdline-course](https://github.com/YousefSakieh/yousefsakieh.github.io)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) 
